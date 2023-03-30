@@ -11,6 +11,7 @@
 
 nav.header a{
     margin-left: 20px;
+    text-decoration: none;
     color:white;
 }
 nav.header a:hover{
