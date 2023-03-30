@@ -1,0 +1,12 @@
+.cart{
+    background-color: antiquewhite;
+    position: sticky;
+    top:0;
+}
+.cart p{
+    padding-left: 24px;
+    
+}
+.sum{
+    padding-left: 25px;
+}
